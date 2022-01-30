@@ -1,8 +1,13 @@
-Name - Saket Maurya
-Class - 12th | A
-PCM
+Hello World !
 
-School - Panchsheel Balak Inter College
+I am Saket Maurya
+
+I study in Panchsheel Balak Inter College
 
 I Love TERMINAL
 I Love Java
+I Love HTML
+I Love CSS
+I Love JavaScript
+I Love Python
+I Love SQL
