@@ -17,3 +17,11 @@ apt update && apt upgrade 🤟
 -  I Love JavaScript 
 -  I Love Python 
 -  I Love SQL
+
+## Battle Started - 30 Jan 2022
+
+# I will Never Stop
+
+- I will be back here after completing my goal.
+
+` Saket Maurya `
